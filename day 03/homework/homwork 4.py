@@ -9,3 +9,4 @@ name = "giorgi"
 name2 = "giorgi"
 # ორივე გიორგი იმიტომ რომ ჩემს მეგობარსაც გიორგი ჰქვია
 print (name + " da " + name2)
+input("plese enter your name")
