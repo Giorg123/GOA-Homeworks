@@ -10,4 +10,4 @@ age4 = int(input("please enter your number: "))
 age5 = int(input("please enter your number: "))
 
 #snake case გომოიყენება სახელებში როცა რამეს ინახავ მანდ აარ შეგიძლია სფეისის გამოყენება მაგრამ შეგიძლია ქვედა მტირე გამოიყენო მაგ: dog_house
-print (age1 + age2 + age3 + age4 +age5)
+print (age1 + age2 + age3 + age4 + age5)
